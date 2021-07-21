@@ -1,26 +1,25 @@
 ---
-title: "Average-Case Communication Complexity of Statistical\r Problems"
-abstract: "We study statistical problems, such as planted\r clique, its variants,
-  and sparse principal component\r analysis in the context of average-case\r communication
-  complexity. Our motivation is to\r understand the statistical-computational trade-offs\r
-  in streaming, sketching, and query-based\r models. Communication complexity is the
-  main tool\r for proving lower bounds in these models, yet many\r prior results do
-  not hold in an average-case\r setting. We provide a general reduction method that\r
-  preserves the input distribution for problems\r involving a random graph or matrix
-  with planted\r structure. Then, we derive two-party and multi-party\r communication
-  lower bounds for detecting or finding\r planted cliques, bipartite cliques, and
-  related\r problems. As a consequence, we obtain new bounds on\r the query complexity
-  in the edge-probe,\r vector-matrix-vector, matrix-vector, linear\r sketching, and
-  $\\mathbb{F}_2$-sketching models. Many\r of these results are nearly tight, and
-  we use our\r techniques to provide simple proofs of some known\r lower bounds for
-  the edge-probe model."
+title: Average-Case Communication Complexity of Statistical Problems
+abstract: We study statistical problems, such as planted clique, its variants, and
+  sparse principal component analysis in the context of average-case communication
+  complexity. Our motivation is to understand the statistical-computational trade-offs
+  in streaming, sketching, and query-based models. Communication complexity is the
+  main tool for proving lower bounds in these models, yet many prior results do not
+  hold in an average-case setting. We provide a general reduction method that preserves
+  the input distribution for problems involving a random graph or matrix with planted
+  structure. Then, we derive two-party and multi-party communication lower bounds
+  for detecting or finding planted cliques, bipartite cliques, and related problems.
+  As a consequence, we obtain new bounds on the query complexity in the edge-probe,
+  vector-matrix-vector, matrix-vector, linear sketching, and $\mathbb{F}_2$-sketching
+  models. Many of these results are nearly tight, and we use our techniques to provide
+  simple proofs of some known lower bounds for the edge-probe model.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: rashtchian21a
 month: 0
-tex_title: "Average-Case Communication Complexity of Statistical\r Problems"
+tex_title: Average-Case Communication Complexity of Statistical Problems
 firstpage: 3859
 lastpage: 3886
 page: 3859-3886
@@ -38,7 +37,7 @@ author:
   family: Zhu
 date: 2021-07-21
 address:
-container-title: "Proceedings of Thirty Fourth Conference on Learning\r Theory"
+container-title: Proceedings of Thirty Fourth Conference on Learning Theory
 volume: '134'
 genre: inproceedings
 issued:

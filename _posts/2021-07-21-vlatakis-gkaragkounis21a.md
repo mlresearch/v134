@@ -1,35 +1,34 @@
 ---
-title: "Reconstructing weighted voting schemes from partial\r information about their
-  power indices"
-abstract: "A number of recent works [Goldberg 2006; O’Donnell\r and Servedio 2011;
-  De, Diakonikolas, and Servedio\r 2017; De, Diakonikolas, Feldman, and Servedio 2014]\r
-  have considered the problem of approximately\r reconstructing an unknown weighted
-  voting scheme\r given information about various sorts of “power\r indices” that
-  characterize the level of control\r that individual voters have over the final\r
-  outcome. In the language of theoretical computer\r science, this is the problem
-  of approximating an\r unknown linear threshold function (LTF) over\r ${-1,1}^n$
-  given some numerical measure (such as the\r function’s n “Chow parameters,” a.k.a.
-  its\r degree-1 Fourier coefficients, or the vector of its\r n Shapley indices) of
-  how much each of the n\r individual input variables affects the outcome of\r the
-  function. In this paper we consider the problem\r of reconstructing an LTF given
-  only partial\r information about its Chow parameters or Shapley\r indices; i.e.
-  we are given only the Chow parameters\r or the Shapley indices corresponding to
-  a subset\r $S\\subseteq [n]$ of the n input variables. A natural\r goal in this
-  partial information setting is to find\r an LTF whose Chow parameters or Shapley
-  indices\r corresponding to indices in S accurately match the\r given Chow parameters
-  or Shapley indices of the\r unknown LTF. We refer to this as the Partial Inverse\r
-  Power Index Problem. Our main results are a\r polynomial time algorithm for the\r
-  ($\\epsilon$-approximate) Chow Parameters Partial\r Inverse Power Index Problem
-  and a quasi-polynomial\r time algorithm for the ($\\epsilon$-approximate)\r Shapley
-  Indices Partial Inverse Power Index\r Problem."
+title: Reconstructing weighted voting schemes from partial information about their
+  power indices
+abstract: A number of recent works [Goldberg 2006; O’Donnell and Servedio 2011; De,
+  Diakonikolas, and Servedio 2017; De, Diakonikolas, Feldman, and Servedio 2014] have
+  considered the problem of approximately reconstructing an unknown weighted voting
+  scheme given information about various sorts of “power indices” that characterize
+  the level of control that individual voters have over the final outcome. In the
+  language of theoretical computer science, this is the problem of approximating an
+  unknown linear threshold function (LTF) over ${-1,1}^n$ given some numerical measure
+  (such as the function’s n “Chow parameters,” a.k.a. its degree-1 Fourier coefficients,
+  or the vector of its n Shapley indices) of how much each of the n individual input
+  variables affects the outcome of the function. In this paper we consider the problem
+  of reconstructing an LTF given only partial information about its Chow parameters
+  or Shapley indices; i.e. we are given only the Chow parameters or the Shapley indices
+  corresponding to a subset $S\subseteq [n]$ of the n input variables. A natural goal
+  in this partial information setting is to find an LTF whose Chow parameters or Shapley
+  indices corresponding to indices in S accurately match the given Chow parameters
+  or Shapley indices of the unknown LTF. We refer to this as the Partial Inverse Power
+  Index Problem. Our main results are a polynomial time algorithm for the ($\epsilon$-approximate)
+  Chow Parameters Partial Inverse Power Index Problem and a quasi-polynomial time
+  algorithm for the ($\epsilon$-approximate) Shapley Indices Partial Inverse Power
+  Index Problem.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: vlatakis-gkaragkounis21a
 month: 0
-tex_title: "Reconstructing weighted voting schemes from partial\r information about
-  their power indices"
+tex_title: Reconstructing weighted voting schemes from partial information about their
+  power indices
 firstpage: 500
 lastpage: 565
 page: 500-565
@@ -48,7 +47,7 @@ author:
   family: Servedio
 date: 2021-07-21
 address:
-container-title: "Proceedings of Thirty Fourth Conference on Learning\r Theory"
+container-title: Proceedings of Thirty Fourth Conference on Learning Theory
 volume: '134'
 genre: inproceedings
 issued:

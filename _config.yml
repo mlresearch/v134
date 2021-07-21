@@ -1,5 +1,5 @@
 ---
-booktitle: "Proceedings of Thirty Fourth Conference on Learning\r Theory"
+booktitle: Proceedings of Thirty Fourth Conference on Learning Theory
 shortname: COLT
 volume: '134'
 year: '2021'
@@ -21,11 +21,19 @@ editor:
 - given: Samory
   family: Kpotufe
 title: Proceedings of Machine Learning Research
-description: "Proceedings of Thirty Fourth Conference on Learning\r Theory\n  Held
-  in Boulder, Colorado, USA on 15-19 August 2021\n\nPublished as Volume 134 by the
-  Proceedings of Machine Learning Research on 21 July 2021.\n\nVolume Edited by:\n
-  \ Mikhail Belkin\n  Samory Kpotufe\n\nSeries Editors:\n  Neil D. Lawrence\n  * Mark
-  Reid\n"
+description: |
+  Proceedings of Thirty Fourth Conference on Learning Theory
+    Held in Boulder, Colorado, USA on 15-19 August 2021
+
+  Published as Volume 134 by the Proceedings of Machine Learning Research on 21 July 2021.
+
+  Volume Edited by:
+    Mikhail Belkin
+    Samory Kpotufe
+
+  Series Editors:
+    Neil D. Lawrence
+    * Mark Reid
 date_str: 15--19 Aug
 url: http://proceedings.mlr.press
 author:

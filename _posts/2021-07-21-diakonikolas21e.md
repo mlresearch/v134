@@ -1,20 +1,20 @@
 ---
-title: "Outlier-Robust Learning of Ising Models Under\r Dobrushin’s Condition"
-abstract: "We study the problem of learning Ising models\r satisfying Dobrushin’s
-  condition in the\r outlier-robust setting where a constant fraction of\r the samples
-  are adversarially corrupted. Our main\r result is to provide the first computationally\r
-  efficient robust learning algorithm for this problem\r with near-optimal error guarantees.
-  Our algorithm\r can be seen as a special case of an algorithm for\r robustly learning
-  a distribution from a general\r exponential family. To prove its correctness for\r
-  Ising models, we establish new anti-concentration\r results for degree-2 polynomials
-  of Ising models\r that may be of independent interest."
+title: Outlier-Robust Learning of Ising Models Under Dobrushin’s Condition
+abstract: We study the problem of learning Ising models satisfying Dobrushin’s condition
+  in the outlier-robust setting where a constant fraction of the samples are adversarially
+  corrupted. Our main result is to provide the first computationally efficient robust
+  learning algorithm for this problem with near-optimal error guarantees. Our algorithm
+  can be seen as a special case of an algorithm for robustly learning a distribution
+  from a general exponential family. To prove its correctness for Ising models, we
+  establish new anti-concentration results for degree-2 polynomials of Ising models
+  that may be of independent interest.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: diakonikolas21e
 month: 0
-tex_title: "Outlier-Robust Learning of Ising Models Under\r Dobrushin’s Condition"
+tex_title: Outlier-Robust Learning of Ising Models Under Dobrushin’s Condition
 firstpage: 1645
 lastpage: 1682
 page: 1645-1682
@@ -33,7 +33,7 @@ author:
   family: Sun
 date: 2021-07-21
 address:
-container-title: "Proceedings of Thirty Fourth Conference on Learning\r Theory"
+container-title: Proceedings of Thirty Fourth Conference on Learning Theory
 volume: '134'
 genre: inproceedings
 issued:

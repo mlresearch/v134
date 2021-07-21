@@ -1,18 +1,17 @@
 ---
 title: Boosting in the Presence of Massart Noise
-abstract: "We study the problem of boosting the accuracy of a\r weak learner in the
-  (distribution-independent) PAC\r model with Massart noise. In the Massart noise\r
-  model, the label of each example $x$ is\r independently misclassified with probability\r
-  $\\eta(x) \\leq \\eta$, where $\\eta<1/2$. The Massart\r model lies between the
-  random classification noise\r model and the agnostic model. Our main positive\r
-  result is the first computationally efficient\r boosting algorithm in the presence
-  of Massart noise\r that achieves misclassification error arbitrarily\r close to
-  $\\eta$. Prior to our work, no non-trivial\r booster was known in this setting.
-  Moreover, we show\r that this error upper bound is best possible for\r polynomial-time
-  black-box boosters, under standard\r cryptographic assumptions. Our upper and lower\r
-  bounds characterize the complexity of boosting in\r the distribution-independent
-  PAC model with Massart\r noise. As a simple application of our positive\r result,
-  we give the first efficient Massart learner\r for unions of high-dimensional rectangles."
+abstract: We study the problem of boosting the accuracy of a weak learner in the (distribution-independent)
+  PAC model with Massart noise. In the Massart noise model, the label of each example
+  $x$ is independently misclassified with probability $\eta(x) \leq \eta$, where $\eta<1/2$.
+  The Massart model lies between the random classification noise model and the agnostic
+  model. Our main positive result is the first computationally efficient boosting
+  algorithm in the presence of Massart noise that achieves misclassification error
+  arbitrarily close to $\eta$. Prior to our work, no non-trivial booster was known
+  in this setting. Moreover, we show that this error upper bound is best possible
+  for polynomial-time black-box boosters, under standard cryptographic assumptions.
+  Our upper and lower bounds characterize the complexity of boosting in the distribution-independent
+  PAC model with Massart noise. As a simple application of our positive result, we
+  give the first efficient Massart learner for unions of high-dimensional rectangles.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
@@ -42,7 +41,7 @@ author:
   family: Tzamos
 date: 2021-07-21
 address:
-container-title: "Proceedings of Thirty Fourth Conference on Learning\r Theory"
+container-title: Proceedings of Thirty Fourth Conference on Learning Theory
 volume: '134'
 genre: inproceedings
 issued:
