@@ -1,0 +1,75 @@
+---
+booktitle: "Proceedings of Thirty Fourth Conference on Learning\r Theory"
+shortname: COLT
+volume: '134'
+year: '2021'
+start: 2021-08-15
+end: 2021-08-19
+published: 2021-07-21
+conference_number: '34'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: COLT2021
+month: 0
+cycles: false
+bibtex_editor: Belkin, Mikhail and Kpotufe, Samory
+editor:
+- given: Mikhail
+  family: Belkin
+- given: Samory
+  family: Kpotufe
+title: Proceedings of Machine Learning Research
+description: "Proceedings of Thirty Fourth Conference on Learning\r Theory\n  Held
+  in Boulder, Colorado, USA on 15-19 August 2021\n\nPublished as Volume 134 by the
+  Proceedings of Machine Learning Research on 21 July 2021.\n\nVolume Edited by:\n
+  \ Mikhail Belkin\n  Samory Kpotufe\n\nSeries Editors:\n  Neil D. Lawrence\n  * Mark
+  Reid\n"
+date_str: 15--19 Aug
+url: http://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v134"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v134
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v134
+email: ''
+conference:
+  name: Conference on Learning Theory
+  url: http://www.learningtheory.org/colt2021/index.html
+  location: Boulder, Colorado, USA
+  dates:
+  - 2021-08-15
+  - 2021-08-16
+  - 2021-08-17
+  - 2021-08-18
+  - 2021-08-19
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v134/colt2021.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v134/colt2021.bib
