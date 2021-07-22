@@ -27,12 +27,12 @@ lastpage: 1584
 page: 1552-1584
 order: 1552
 cycles: false
-bibtex_author: Diakonikolas, Ilias and Kane, Daniel M and Pittas, Thanasis and Zarifis,
+bibtex_author: Diakonikolas, Ilias and Kane, Daniel M. and Pittas, Thanasis and Zarifis,
   Nikos
 author:
 - given: Ilias
   family: Diakonikolas
-- given: Daniel M
+- given: Daniel M.
   family: Kane
 - given: Thanasis
   family: Pittas
