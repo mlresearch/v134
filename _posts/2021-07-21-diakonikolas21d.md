@@ -24,14 +24,14 @@ lastpage: 1644
 page: 1585-1644
 order: 1585
 cycles: false
-bibtex_author: Diakonikolas, Ilias and Impagliazzo, Russell and Kane, Daniel M and
+bibtex_author: Diakonikolas, Ilias and Impagliazzo, Russell and Kane, Daniel M. and
   Lei, Rex and Sorrell, Jessica and Tzamos, Christos
 author:
 - given: Ilias
   family: Diakonikolas
 - given: Russell
   family: Impagliazzo
-- given: Daniel M
+- given: Daniel M.
   family: Kane
 - given: Rex
   family: Lei
