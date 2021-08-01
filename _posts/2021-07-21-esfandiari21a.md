@@ -9,7 +9,7 @@ abstract: Adaptive sequential decision making is one of the central challenges i
   the notion of diminishing returns to policies.  In this paper, we revisit the power
   of adaptivity in maximizing an adaptive monotone submodular function. We propose
   an efficient semi adaptive policy that with $O(\log n \times\log k)$ adaptive rounds
-  of observations can achieve an almost tight $1-1/e-\eps$ approximation guarantee
+  of observations can achieve an almost tight $1-1/e-\epsilon$ approximation guarantee
   with respect to an optimal policy that carries out $k$ actions in a fully sequential
   manner. To complement our results, we also show that it is impossible to achieve
   a constant factor approximation with $o(\log n)$ adaptive rounds. We also extend
