@@ -1,5 +1,5 @@
 ---
-title: **Paper retracted by author request (see pdf for retraction notice from the authors)** Nonparametric Regression with Shallow Overparameterized Neural Networks Trained
+title: ⚠️Paper retracted by author request (see pdf for retraction notice)⚠️  Nonparametric Regression with Shallow Overparameterized Neural Networks Trained
   by GD with Early Stopping
 abstract: We explore the ability of overparameterized shallow neural networks to learn
   Lipschitz regression functions with and without label noise when trained by Gradient
