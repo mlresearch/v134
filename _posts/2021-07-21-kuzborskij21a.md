@@ -1,6 +1,5 @@
 ---
-title: "**Paper retracted by author request (see pdf for retraction notice from the authors)** Nonparametric Regression with Shallow Overparameterized Neural Networks Trained
-  by GD with Early Stopping"
+title: '**Paper retracted by author request (see pdf for retraction notice from the authors)** Nonparametric Regression with Shallow Overparameterized Neural Networks Trained by GD with Early Stopping'
 abstract: We explore the ability of overparameterized shallow neural networks to learn
   Lipschitz regression functions with and without label noise when trained by Gradient
   Descent (GD). To avoid the problem that in the presence of noisy labels, neural
@@ -22,8 +21,7 @@ publisher: PMLR
 issn: 2640-3498
 id: kuzborskij21a
 month: 0
-tex_title: Nonparametric Regression with Shallow Overparameterized Neural Networks
-  Trained by GD with Early Stopping
+tex_title: '**Paper retracted by author request (see pdf for retraction notice from the authors)** Nonparametric Regression with Shallow Overparameterized Neural Networks Trained by GD with Early Stopping'
 firstpage: 2853
 lastpage: 2890
 page: 2853-2890
